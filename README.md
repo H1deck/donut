@@ -1,2 +1,2 @@
-# donut
+# Donut
 Page about donuts
